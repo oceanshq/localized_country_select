@@ -49,7 +49,7 @@
 			:CK => "Cook Islands",
 			:CL => "Chile",
 			:CM => "Cameroon",
-			:CN => "China",
+			:CN => "People's Republic of China",
 			:CO => "Colombia",
 			:CR => "Costa Rica",
 			:CS => "Serbia and Montenegro",
